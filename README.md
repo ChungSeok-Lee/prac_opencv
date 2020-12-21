@@ -8,8 +8,21 @@
 
 # 목차 
 - [참고 자료](#참고-자료)
+- [개발 환경](#개발-환경)
 
+- [개발 이슈](#개발-이슈)
 <br><br>
 
 # 참고-자료
-1. [Main_Study_Site](https://www.pyimagesearch.com/start-here/)
+1. [Main_Study_Site](https://www.pyimagesearch.com/start-here/): pyimagesearch.com
+
+
+# 개발 환경
+1. Python 3.8.6 64bit
+2. numpy 1.19.3
+
+
+# 개발 이슈
+## _2020/12/21_<br>
+    이슈: opencv를 설치하니 library를 제대로 import하지 못하는 경우가 생겼다.
+    해결: opencv 설치 시 설치되는 numpy 1.19.4 대신 1.19.3를 설치해주니 해결
