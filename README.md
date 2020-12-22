@@ -11,12 +11,13 @@
 - [개발 환경](#개발-환경)
 
 - [개발 이슈](#개발-이슈)
+- [학습 일지](#학습-일지)
 <br><br>
 
 # 참고-자료
 1. [Main_Study_Site1](https://www.pyimagesearch.com/start-here/): pyimagesearch.com
 2. [Main_Study_Site2](https://076923.github.io/posts/Python-opencv-1/)
-2. [Anacodna 환경설정](https://zvi975.tistory.com/65)
+3. [Anacodna 환경설정](https://zvi975.tistory.com/65)
 
 
 # 개발 환경
@@ -37,3 +38,6 @@
 ## _2020/12/21_
     이슈: conda base 환경에서 tensorflow를 그냥 설치하면 에러가 뜬다.
     해결: 새로운 환경을 만들고 거기서 tensorflow를 설치하면 된다. 
+
+
+# 학습 일지
